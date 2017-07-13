@@ -1,0 +1,21 @@
+*{
+     margin:10px 50px 10px 50px;
+}
+
+html, body{
+     text-align:center;
+}
+h1 {
+  color: #0da86c;
+  font-family:serif;
+  font-size: 70px
+}
+h2{
+  color: #c13037;
+  font-family: serif;
+  font-size: 21px
+}
+p {
+  font-family:serif;
+  font-size: 17px
+}
